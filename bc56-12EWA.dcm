@@ -1,0 +1,96 @@
+EESchema-DOCLIB  Version 2.0  Date: Fri 02 Jan 2015 06:58:19 PM MSK
+#
+$CMP AG12864E
+D AG12864E, Graphics Display 128x64px,  1/64 Duty, KS108B Controller, AMPIRE
+K LCD Graphics 128x64 KS108 Ampire
+$ENDCMP
+#
+$CMP DA04-11
+D 2 x 7 Segments common A.
+K 7 SEGMENTS
+F Display/display-DA04-11GWA.pdf
+$ENDCMP
+#
+$CMP DC04-11
+D 2 x 7 Segments common K.
+K 7 SEGMENTS
+F Display/display-DC04-11GWA.pdf
+$ENDCMP
+#
+$CMP DOT-BAR
+D BAR GRAPH unit
+K BAR DOT
+F Display/HDSP-48xx.pdf
+$ENDCMP
+#
+$CMP DOT-BAR2
+D BAR GRAPH Block
+K BAR DOT
+F Display/HDSP-48xx.pdf
+$ENDCMP
+#
+$CMP ELD-426X
+D DUAL 7 Segments ELD-426 series.
+K 7 SEGMENTS
+$ENDCMP
+#
+$CMP HDSP-7XXX-A
+D Afficheur 7 seg. HDSP-7xxx type A
+K 7 Segments
+F Display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-7XXX-B
+D Afficheur 7 seg. HDSP-7xxx type B
+K 7 Segments
+F Display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-7XXX-C
+D Afficheur 7 seg. HDSP-7xxx type C
+K 7 Segments
+F Display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HDSP-7XXX-D
+D Afficheur 7 seg. HDSP-7xxx type D
+K 7 Segments
+F Display/HDSP-7xxx.pdf
+$ENDCMP
+#
+$CMP HY1602E
+D HY1602E
+K LCD 16x2 Alphanumeric 16pin Blue/Yellow/Green Backlight
+F http://www.icbank.com/data/ICBShop/board/HY1602E.pdf
+$ENDCMP
+#
+$CMP LCD16X2
+D WC1602A0-SFYLYNC06
+K Generic LCD 16x2 Alphanumeric 16pin Green Backlight
+F http://www.kamami.pl/dl/wc1602a0.pdf
+$ENDCMP
+#
+$CMP LTS-6960HR
+D DISPLAY 7 SEGMENTS common A.
+K 7 SEGMENTS
+F Display/LTC-6960HR.pdf
+$ENDCMP
+#
+$CMP LTS-6980HR
+D DISPLAY 7 SEGMENTS common K
+K 7 SEGMENTS
+F Display/LTC-6980HR.pdf
+$ENDCMP
+#
+$CMP MAN71A
+D 7 segments display - Common anods
+K DISPLAY LED
+$ENDCMP
+#
+$CMP RC1602A-GHW-ESX
+D RC1602A-GHW-ESX
+K LCD 16x2 Alphanumeric 16pin Gray Backlight
+F http://www.raystar-optronics.com/down.php?ProID=18
+$ENDCMP
+#
+#End Doc Library
